@@ -11,7 +11,7 @@ git clone https://github.com/maltiwainy229/Aurora-Model.git
 cd Aurora-Model
 ```
 
-(Optional) To use the original Aurora code, also clone their repository:
+To use the original Aurora code, also clone their repository:
 
 ```bash
 git clone https://github.com/rtavenar/aurora.git
@@ -24,16 +24,14 @@ See [Aurora's documentation](https://github.com/rtavenar/aurora#readme) for setu
 - `notebooks/example_era5.ipynb`: Based on Aurora's official example, used for initial exploration and data preparation.
 - `notebooks/EMARSpredictions.ipynb`: My notebook for running predictions on the EMARS dataset using Aurora's workflow.
 
-## Project Structure
+## Project Poster
 
-- `src/`: Custom scripts and utilities.
-- `data/`: Data files (not tracked by Git; see `.gitignore`).
-- `results/`: Output files and results.
-- `poster/`: Poster or presentation materials.
-- `extras/`: Miscellaneous files (see `extras/README.md` for descriptions).
-
+- `Poster.pdf`
+  
 ## Extras
 
+- `extras/`: Miscellaneous files
+  
 See [`extras/README.md`](extras/README.md) for details on additional files.
 
 ## Comments & Documentation
