@@ -40,4 +40,4 @@ See [`extras/README.md`](extras/README.md) for details on additional files.
 
 ## Credits
 
-Built on [Aurora](https://github.com/rtavenar/aurora).
+Built on [Microsoft's Aurora](https://github.com/microsoft/aurora).
