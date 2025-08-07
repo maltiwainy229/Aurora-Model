@@ -19,7 +19,7 @@ cd aurora
 ```
 See [Aurora's documentation](https://microsoft.github.io/aurora/intro.html) for setup and installation instructions.
 
-## Notebooks
+## Notebooks Folder
 
 - `notebooks/example_era5.ipynb`: Based on Aurora's official example, used for initial exploration and data preparation.
 - `notebooks/EMARSpredictions.ipynb`: My notebook for running predictions on the EMARS dataset using Aurora's workflow.
