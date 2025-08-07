@@ -1,6 +1,6 @@
 # Aurora-Model
 
-This repository documents my work using the Aurora model, with initial steps based on the official Aurora notebooks and further experimentation on the EMARS dataset.
+This repository documents my work using Microsoft's Aurora model, with initial steps based on the official Aurora notebooks and further experimentation on the EMARS dataset.
 
 ## Getting Started
 
