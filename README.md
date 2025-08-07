@@ -41,6 +41,7 @@ See [`extras/README.md`](extras/README.md) for details on additional files.
 ## Credits
 
 Built on [Microsoft's Aurora](https://github.com/microsoft/aurora).
+[Click Here](https://www.nature.com/articles/s41586-025-09005-y) for publication.
 
 ## Contact & Contributions
 
