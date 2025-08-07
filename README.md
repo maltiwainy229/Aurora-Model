@@ -26,11 +26,9 @@ See [Aurora's documentation](https://github.com/rtavenar/aurora#readme) for setu
 
 ## Project Poster
 
-- `Poster.pdf`
+See [`Poster.pdf`](Poster.pdf) for Project Poster.
   
 ## Extras
-
-- `extras/`: Miscellaneous files
   
 See [`extras/README.md`](extras/README.md) for details on additional files.
 
