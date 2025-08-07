@@ -14,7 +14,7 @@ cd Aurora-Model
 To use the original Aurora code, also clone their repository:
 
 ```bash
-git clone https://github.com/rtavenar/aurora.git
+git clone https://github.com/aurora.git
 cd aurora
 ```
 See [Aurora's documentation](https://microsoft.github.io/aurora/intro.html) for setup and installation instructions.
