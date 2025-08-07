@@ -17,7 +17,7 @@ To use the original Aurora code, also clone their repository:
 git clone https://github.com/rtavenar/aurora.git
 cd aurora
 ```
-See [Aurora's documentation](https://github.com/rtavenar/aurora#readme) for setup and installation instructions.
+See [Aurora's documentation](https://microsoft.github.io/aurora/intro.html) for setup and installation instructions.
 
 ## Notebooks
 
