@@ -1,6 +1,6 @@
 # Contributing to Aurora Model Project Portfolio
 
-Thank you for your interest in contributing! This repository is intended as a public portfolio for my work with [Microsoft’s Aurora model](https://github.com/microsoft/aurora). While this is primarily a showcase of my own project, improvements, suggestions, and reproducible research enhancements are welcome.
+Thank you for your interest in contributing! This repository is intended as a public portfolio for my work with [Microsoft’s Aurora](https://github.com/microsoft/aurora) model. While this is primarily a showcase of my own project, improvements, suggestions, and reproducible research enhancements are welcome.
 
 ## How to Contribute
 
