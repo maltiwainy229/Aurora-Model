@@ -41,3 +41,11 @@ See [`extras/README.md`](extras/README.md) for details on additional files.
 ## Credits
 
 Built on [Microsoft's Aurora](https://github.com/microsoft/aurora).
+
+## Contact & Contributions
+
+Feedback and collaboration are welcome! Please open an issue or contact me via GitHub.
+
+---
+
+*This project  is not affiliated with Microsoft, but is based on their openly available Aurora model and documentation.*
