@@ -1,0 +1,15 @@
+name: aurora-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - xarray
+  - pip
+  - pip:
+      - torch
+      # Add Aurora-specific or other pip dependencies here
