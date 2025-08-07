@@ -1,6 +1,6 @@
 # Aurora-Model
 
-This repository documents my work using [Microsoft's Aurora](https://www.microsoft.com/en-us/research/project/aurora-forecasting/)model, a state-of-the-art foundation model for weather and climate, with initial steps based on the official Aurora notebooks and further experimentation on the EMARS dataset.
+This repository documents my work using [Microsoft's Aurora](https://www.microsoft.com/en-us/research/project/aurora-forecasting/) model, a state-of-the-art foundation model for weather and climate, with initial steps based on the official Aurora notebooks and further experimentation on the EMARS dataset.
 
 ## Getting Started
 
